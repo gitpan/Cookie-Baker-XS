@@ -1,5 +1,9 @@
 Revision history for Perl extension Cookie-Baker-XS
 
+0.04 2014-11-19T01:19:39Z
+
+    - add 0 terminate
+
 0.03 2014-02-26T13:48:42Z
 
     - add test
